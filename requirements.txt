@@ -1,1 +1,8 @@
 fastapi[all]
+uvicorn[standard]
+python-multipart
+opencv-python
+mediapipe
+tensorflow
+pillow
+numpy
